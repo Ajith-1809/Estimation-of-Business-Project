@@ -18,20 +18,7 @@ This repository contains well-organized **PDF documentation** for every phase, m
 
 ## 📁 Project Structure
 
-📦 Estimation-of-Business-Project
-├── 📄dashboard.pdf 
-├── 📄 data collection.pdf 
-├── 📄 data preparation.pdf 
-├── 📄 data visualization.pdf 
-├── 📄 define problem.pdf 
-├── 📄 ideation phase.pdf 
-├── 📄 project design phase part1.pdf 
-├── 📄 project design phase part2.pdf 
-├── 📄 project development phase.pdf 
-├── 📄 performance testing.pdf 
-├── 📄 performances and final submission phase.pdf 
-├── 📄 project demonstration and documentation.pdf 
-└── 📄 story.pdf
+📦 Estimation-of-Business-Project ├── 📄 dashboard.pdf ├── 📄 data collection.pdf ├── 📄 data preparation.pdf ├── 📄 data visualization.pdf ├── 📄 define problem.pdf ├── 📄 ideation phase.pdf ├── 📄 project design phase part1.pdf ├── 📄 project design phase part2.pdf ├── 📄 project development phase.pdf ├── 📄 performance testing.pdf ├── 📄 performances and final submission phase.pdf ├── 📄 project demonstration and documentation.pdf └── 📄 story.pdf
 
 ---
 
@@ -76,11 +63,11 @@ This repository contains well-organized **PDF documentation** for every phase, m
 -📊 Business Analysis & Visualization Tools
 -📁 PDF Documentation
 
-👤 Author
+##   👤 Author
 Ajith Kumar V
 🔗 GitHub: https://github.com/Ajith-1809
 
-⭐ Support
+##  ⭐ Support
 If you find this project useful, please give it a ⭐ on GitHub!
 
 
